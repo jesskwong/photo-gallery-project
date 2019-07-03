@@ -1,4 +1,4 @@
-# photo-gallery-
+# photo-gallery-project
 <!DOCTYPE html>
 <html> 
   <body>
